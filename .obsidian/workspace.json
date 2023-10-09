@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3e428f4c9e514552",
+        "id": "50512f9edcdc81b3",
         "type": "tabs",
         "children": [
           {
-            "id": "55cc6db66a3a2119",
+            "id": "a9011e672e9e4a27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap - Learn React.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97e6f4b298ad685f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Roadmap - Learn React.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roadmap - Learn React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roadmap - Learn React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roadmap - Learn React.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97e6f4b298ad685f",
+  "active": "a9011e672e9e4a27",
   "lastOpenFiles": [
+    "Roadmap - Learn React.md",
     "README.md",
     "README.md.md",
-    "Roadmap - Learn React.md",
     "New Text Document.txt"
   ]
 }
