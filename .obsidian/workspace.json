@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "50512f9edcdc81b3",
+        "id": "54e92a18c681ba59",
         "type": "tabs",
         "children": [
           {
-            "id": "a9011e672e9e4a27",
+            "id": "5218527bbef5e89f",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3633d2b2e7b52126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. Create React Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02. Create React Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02. Create React Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02. Create React Project.md"
+              }
             }
           }
         ]
@@ -138,11 +155,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9011e672e9e4a27",
+  "active": "3633d2b2e7b52126",
   "lastOpenFiles": [
-    "Roadmap - Learn React.md",
-    "README.md",
-    "README.md.md",
-    "New Text Document.txt"
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom/README.md",
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom/package.json",
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom/matchers.d.ts",
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom/LICENSE",
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom/index.d.ts",
+    "react-course/01basicreact/node_modules/@types/testing-library__jest-dom",
+    "react-course/01basicreact/node_modules/@types/scheduler/README.md",
+    "react-course/01basicreact/node_modules/@types/scheduler/package.json",
+    "react-course/01basicreact/node_modules/@types/scheduler/tracing.d.ts",
+    "react-course/01basicreact/node_modules/@types/scheduler/LICENSE",
+    "react-course/01basicreact/node_modules/@types/scheduler/index.d.ts",
+    "react-course/01basicreact/node_modules/@types/scheduler",
+    "react-course/01basicreact/node_modules/@types/react-dom/README.md",
+    "react-course/01basicreact/node_modules/@types/prop-types/README.md",
+    "react-course/01basicreact/node_modules/strip-indent/readme.md",
+    "react-course/01basicreact/node_modules/redent/readme.md",
+    "react-course/01basicreact/node_modules/object-is/README.md",
+    "react-course/01basicreact/node_modules/object-is/CHANGELOG.md",
+    "react-course/01basicreact/node_modules/min-indent/readme.md",
+    "react-course/01basicreact/node_modules/is-arguments/README.md",
+    "react-course/01basicreact/node_modules/is-arguments/CHANGELOG.md",
+    "react-course/01basicreact/node_modules/indent-string/readme.md",
+    "react-course/01basicreact/node_modules/css.escape/README.md",
+    "react-course/01basicreact/node_modules/es-get-iterator/README.md",
+    "react-course/01basicreact/node_modules/es-get-iterator/CHANGELOG.md",
+    "react-course/01basicreact/node_modules/@types/react/README.md",
+    "react-course/01basicreact/node_modules/web-vitals/README.md",
+    "react-course/01basicreact/node_modules/dom-accessibility-api/README.md",
+    "react-course/01basicreact/node_modules/dom-accessibility-api/LICENSE.md",
+    "react-course/01basicreact/node_modules/@adobe/css-tools/Readme.md",
+    "react-course/01basicreact/node_modules/@adobe/css-tools/History.md",
+    "react-course/01basicreact/node_modules/@types/aria-query/README.md",
+    "react-course/01basicreact/node_modules/@jest/expect-utils/README.md",
+    "react-course/01basicreact/node_modules/stop-iteration-iterator/README.md",
+    "react-course/01basicreact/node_modules/stop-iteration-iterator/CHANGELOG.md",
+    "react-course/01basicreact/node_modules/deep-equal/CHANGELOG.md",
+    "react-course/01basicreact/src/logo.svg",
+    "react-course/01basicreact/public/logo192.png",
+    "react-course/01basicreact/public/logo512.png",
+    "react-course/01basicreact/node_modules/istanbul-reports/lib/html/assets/favicon.png",
+    "react-course/01basicreact/node_modules/istanbul-reports/lib/html/assets/sort-arrow-sprite.png",
+    "react-course/01basicreact/node_modules/renderkid/docs/images/display.png",
+    "react-course/01basicreact/node_modules/renderkid/docs/images/usage.png",
+    "react-course/01basicreact/node_modules/renderkid/docs/images/bullets-1.png",
+    "react-course/01basicreact/node_modules/istanbul-reports/lib/html-spa/assets/sort-arrow-sprite.png",
+    "react-course/01basicreact/node_modules/resolve-url-loader/docs/detailed-problem.svg"
   ]
 }
