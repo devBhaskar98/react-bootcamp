@@ -1,0 +1,7 @@
+### Create React Element
+
+const areactElement = React.createElement(
+    'a',
+    {href: 'https://google.com', target: '_blank'},
+    'click to visit google'
+)
