@@ -179,8 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "268c35e95bcd86c4",
+  "active": "926e97d4b441e75d",
   "lastOpenFiles": [
+    "react-course/04customreact/customReact.js",
+    "react-course/04customreact/index.html",
+    "react-course/04customreact",
     "react-course/01basicvite/node_modules/source-map-js/lib/util.js",
     "react-course/01basicvite/node_modules/source-map-js/lib/source-node.js",
     "react-course/01basicvite/node_modules/source-map-js/lib/source-map-generator.js",
@@ -189,9 +192,6 @@
     "react-course/01basicvite/node_modules/source-map-js/lib/mapping-list.js",
     "react-course/01basicvite/node_modules/source-map-js/lib/binary-search.js",
     "react-course/01basicvite/node_modules/source-map-js/lib/base64.js",
-    "react-course/01basicvite/node_modules/source-map-js/lib/base64-vlq.js",
-    "react-course/01basicvite/node_modules/source-map-js/lib/array-set.js",
-    "react-course/01basicvite/node_modules/source-map-js/source-map.js",
     "react-course/01basicvite/node_modules/source-map-js/README.md",
     "react-course/01basicvite/node_modules/source-map-js/CHANGELOG.md",
     "react-course/01basicvite/node_modules/postcss/README.md",
