@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ba252337dce1d6d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "926e97d4b441e75d",
+  "active": "3ba252337dce1d6d",
   "lastOpenFiles": [
     "react-course/04customreact/customReact.js",
     "react-course/04customreact/index.html",
