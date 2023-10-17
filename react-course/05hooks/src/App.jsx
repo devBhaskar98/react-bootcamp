@@ -4,14 +4,13 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState({})
+  const [counter, setCounter] = useState(15)
 
   const addValue = () => {
-    counter = counter + 1;
-    console.log('counter', counter)
+   setCounter(counter+1)
   }
 
-  let counter = 15
+  // let counter = 15
   return (
     <>
       <h1>React Course</h1>
