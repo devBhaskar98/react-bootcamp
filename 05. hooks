@@ -1,0 +1,17 @@
+// React algo works on batch so even we have multiple counter + 1, we will be getting increment value by 1
+const addValue = () => {
+   setCounter(counter+1)
+   setCounter(counter+1)
+   setCounter(counter+1)
+   setCounter(counter+1)
+   setCounter(counter+1)
+  }
+
+// Define the correct behavior
+// it gives callback and make sure that next set of operation is performed once current one is completed
+const addValue = () => {
+   setCounter((prevCounter) => prevCounter + 1)
+   setCounter((prevCounter) => prevCounter + 1)
+   setCounter((prevCounter) => prevCounter + 1)
+   setCounter((prevCounter) => prevCounter + 1)
+  }

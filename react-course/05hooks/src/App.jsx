@@ -10,13 +10,17 @@ function App() {
    setCounter(counter+1)
   }
 
+  const removeValue = () => {
+    setCounter(counter-1)
+  }
+
   // let counter = 15
   return (
     <>
       <h1>React Course</h1>
       <h2>Counter Value: {counter}</h2>
       <button onClick={addValue}>Add Value</button>
-      <button>Remove value</button>
+      <button onClick={removeValue}>Remove value</button>
 
       <p> Footer: {counter}</p>
     </>
