@@ -1,0 +1,20 @@
+
+https://github.com/acdlite/react-fiber-architecture
+
+React Fibre:
+
+The goal of React Fiber is to increase its suitability for areas like animation, layout and gestures. its headline
+feature is incremental rendering: the ability to split rendering work into chunks and spread it out over multiple frames.
+
+- pause work and come back to it later
+- assign priority to different types of work
+- reuse previously completed work
+- abort work if it's no longer needed
+
+
+
+Renconciliation?
+The algorithm React uses to diff one tree with another to determine which parts need to be changed.
+
+update
+A change in the data used to render a React app. usually the result of 'setState'. Eventually results in a re-render
